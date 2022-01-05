@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Thanh-Tung Ngo
+url: "https://thanhtungngo.com"
+baseurl: "/tungngoresearch"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/tungngovn"
+footer_text: "Personal website of Thanh-Tung Ngo"
 
 sass:
     style: compressed
@@ -17,8 +17,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/tungngoresearch/"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Research"
+   link: "research"
+ - name: "Social activities"
+   link: "social"
