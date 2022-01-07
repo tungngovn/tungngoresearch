@@ -3,6 +3,7 @@ url: "https://tungngovn.github.io"
 baseurl: "/tungngovn.github.io"
 
 remote_theme: ankitsultana/researcher@gem
+layout: "default"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
