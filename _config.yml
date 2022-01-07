@@ -2,6 +2,8 @@ title: Thanh-Tung_Ngo
 url: "https://tungngovn.github.io"
 baseurl: "/tungngovn.github.io"
 
+remote_theme: ankitsultana/researcher@gem
+
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
@@ -17,10 +19,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/tungngovn.github.io"
  - name: "Resume"
    link: "resume.pdf"
-#  - name: "Research"
-  #  link: "research"
-#  - name: "Social activities"
-  #  link: "social"
+ - name: "Research"
+   link: "research"
+ - name: "Social activities"
+   link: "social"
