@@ -1,4 +1,4 @@
-title: Thanh-Tung_Ngo
+title: Thanh-Tung Ngo
 url: "https://tungngovn.github.io"
 baseurl: ""
 
@@ -23,7 +23,7 @@ nav:
    link: "/tungngovn.github.io"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
-#  - name: "Social activities"
-#    link: "social"
+ - name: "Research"
+   link: "research"
+ - name: "Social activities"
+   link: "social"
