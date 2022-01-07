@@ -1,9 +1,9 @@
 title: Thanh-Tung_Ngo
 url: "https://tungngovn.github.io"
-baseurl: "/tungngovn.github.io"
+baseurl: ""
 
-remote_theme: "ankitsultana/researcher"
-layout: "default"
+remote_theme: daattali/beautiful-jekyll
+# layout: "default"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
