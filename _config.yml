@@ -1,6 +1,6 @@
-title: Thanh-Tung Ngo
-url: "https://tungngoresearch.github.io"
-baseurl: "/tungngoresearch.github.io"
+title: Thanh-Tung_Ngo
+url: "https://tungngovn.github.io"
+baseurl: "/tungngovn.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,10 +17,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/tungngoresearch/"
+   link: "/researcher/"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Research"
-   link: "research"
- - name: "Social activities"
-   link: "social"
+#  - name: "Research"
+  #  link: "research"
+#  - name: "Social activities"
+  #  link: "social"
