@@ -2,7 +2,7 @@ title: Thanh-Tung_Ngo
 url: "https://tungngovn.github.io"
 baseurl: "/tungngovn.github.io"
 
-remote_theme: ankitsultana/researcher@gem
+remote_theme: "ankitsultana/researcher@gem"
 layout: "default"
 
 markdown: kramdown
