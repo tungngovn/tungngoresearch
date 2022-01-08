@@ -2,7 +2,8 @@ title: Thanh-Tung Ngo
 url: "https://tungngovn.github.io"
 baseurl: ""
 
-remote_theme: daattali/beautiful-jekyll
+# remote_theme: daattali/beautiful-jekyll
+remote_theme: ankitsultana/researcher@gem
 # layout: "default"
 
 markdown: kramdown
