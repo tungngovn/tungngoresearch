@@ -1,6 +1,6 @@
 ## About Me
 
-<img class="profile-picture" src="TungNgo-ava.jpg">
+<img class="profile-picture" src="TungNgo-ava.jpg" width="100" height="100">
 
 I am currently a master student in Mechatronics under the supervisor of [Dr-Ing. Nguyen Xuan Ha](https://sme.hust.edu.vn/can-bo/ts-nguyen-xuan-ha.html) at [Hanoi University of Science and Technology](https://en.hust.edu.vn/home) (HUST).  Prior to that, I graduated from the Talented Program (Degree of Engineer) in Mechatronics at HUST.
 
