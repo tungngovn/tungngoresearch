@@ -23,5 +23,10 @@ Year | Name | Orgranization
 -----|-------|--------
 2021 | Recommended Candidate of VEF2.0 Program  | VEF Fellows and Scholars Association
 2020 | Domestic Master Scholarship | Vingroup Innovation Foundation
-
+2020 | 1st Prize in Student Research Competition | Hanoi University of Science and Technology
+2019 | NUS Enterprise Summer Program | Temasek Foundation International and National University of Singapore
+09/2018 & 03/2019 | TFI SCALE Scholar 2018 | Temasek Foundation International
+07/2017 | 4th Prize in the 2017 Blitz Research Competition | Rencontres du Vietnam
+2017, 2018, 2019 | Student with five good merits | Vietnam National Union of Students of HUST
+2015-2017 | FYT Scholarship for Outstanding Students | FPT Center for Young Talents, FPT Corporation
 
