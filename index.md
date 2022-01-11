@@ -2,11 +2,11 @@
 
 <img class="profile-picture" src="TungNgo-ava.jpg">
 
-I am currently a master student in Mechatronics under the supervisor of [Dr-Ing. Nguyen Xuan Ha](https://sme.hust.edu.vn/can-bo/ts-nguyen-xuan-ha.html) at [Hanoi University of Science and Technology](https://en.hust.edu.vn/home) (HUST).  Prior to that, I graduated from the Talented Program (Degree of Engineer) in Mechatronics at HUST.
+I am currently a master student in Mechatronics supervised by [Dr-Ing. Nguyen Xuan Ha](https://sme.hust.edu.vn/can-bo/ts-nguyen-xuan-ha.html) at [Hanoi University of Science and Technology](https://en.hust.edu.vn/home) (HUST).  Prior to that, I graduated from the Talented Program (Degree of Engineer) in Mechatronics at HUST.
 
 ## Research Interest
 
-My research interest is in Artificial Intelligence and Autonomous Systems, for example, robots, vehicles, etc. My research spans from algorithms (SLAM, Deep Learning, Probabilistic Robotics) to developing robotic systems. 
+My research interest is in Artificial Intelligence and Autonomous Systems such as robots, vehicles, etc. My research spans from algorithms (SLAM, Deep Learning, Probabilistic Robotics) to developing robotic systems. 
 
 ## Publications
 
