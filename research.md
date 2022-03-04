@@ -1,5 +1,5 @@
 
-# Research projects of Thanh-Tung Ngo
+# Research projects of Thanh-Tung Ngo (Under construction)
 
 ## Visual SLAM
 ![Visual SLAM](/projects/Visual-SLAM/Visual-SLAM.jpg){:width="300px}

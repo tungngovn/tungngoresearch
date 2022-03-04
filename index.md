@@ -2,7 +2,7 @@
 
 <img class="profile-picture" src="TungNgo-ava.jpg">
 
-Currently, I am working as a Research Assistant at [VinUni- Illinois Smart Health Center](https://vin-smart-health.erp-smb.com/about-us/) and doing my Master's in Mechatronics at [Hanoi University of Science and Technology](https://en.hust.edu.vn/home) (HUST) supervised by [Dr-Ing. Nguyen Xuan Ha](https://sme.hust.edu.vn/can-bo/ts-nguyen-xuan-ha.html).  Prior to that, I graduated from the Talented Program (Degree of Engineer) in Mechatronics at HUST.
+Currently, I am working as a Research Assistant at [VinUni- Illinois Smart Health Center](https://vin-smart-health.erp-smb.com/about-us/). Also, I am doing my Master's in Mechatronics at [Hanoi University of Science and Technology](https://en.hust.edu.vn/home) (HUST) supervised by [Dr-Ing. Nguyen Xuan Ha](https://sme.hust.edu.vn/can-bo/ts-nguyen-xuan-ha.html).  Prior to that, I graduated from the Talented Program (Degree of Engineer) in Mechatronics at HUST.
 
 ## Research Interest
 
