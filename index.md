@@ -23,7 +23,7 @@ My research interest is in autonomous systems such as robots, and vehicles. My r
 - Nov, 2020: Our paper was published at Journal of Science and Technology - Technical Universities.
 - Oct, 2020: I was granted the Domestic Master Scholarship (full tuition fee and stipend) by [Vingroup Innovation Foundation (VINIF)](https://vinif.org/en/) for my MSc degree at HUST.
 - Aug, 2020: I received my bachelor degree (Talented program) in Mechatronics at HUST.
-- Jun, 2020: My team won the First Prize in Student Research Competition at HUST.</li>
+- Jun, 2020: My team won the First Prize in Student Research Competition at HUST.
 - Jul, 2019: I was one of 12 representatives of Vietnam to participate in [NUSSP19](https://enterprise.nus.edu.sg/education-programmes/summer-programme/) at National University of Singapore.
 - Sep, 2018: I was one of 25 representatives of HUST to participate in the TFISCALE exchange program in Singapore.
 - Jul, 2017: I won the 4th Prize in the 2017 Blitz Research Competition at [Vietnam Summer School of Science](https://www.truonghekhoahoc.com/truonghe2017/).
@@ -36,7 +36,7 @@ My research interest is in autonomous systems such as robots, and vehicles. My r
 4. [H. X. Nguyen, H. V. Nguyen, and **T. T. Ngo**, “A new landmark detection approach for SLAM algorithm applied in mobile robot,” J. Sci. Technol. Tech. Univ., vol. 146, pp. 31-36, Nov. 2020, doi: 10.51316/30.7.6.](https://jst.hust.edu.vn/journals/30.7.6). 
 
 
-## Honors and Awards
+<!-- ## Honors and Awards
 
 Year | Name | Orgranization
 -----|-------|--------
@@ -47,5 +47,5 @@ Year | Name | Orgranization
 09/2018 & 03/2019 | TFI SCALE Scholar 2018 | Temasek Foundation International
 07/2017 | 4th Prize in the 2017 Blitz Research Competition | Rencontres du Vietnam
 2017, 2018, 2019 | Student with five good merits | Vietnam National Union of Students of HUST
-2015-2017 | FYT Scholarship for Outstanding Students | FPT Center for Young Talents, FPT Corporation
+2015-2017 | FYT Scholarship for Outstanding Students | FPT Center for Young Talents, FPT Corporation -->
 

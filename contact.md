@@ -3,24 +3,24 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [tung.ngothanh.hust(at)gmail.com](mailto:tung.ngothanh.hust@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+84-386560691](tel:+84-386560691)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> VinUniversity, Vinhomes Ocean Park, Gia Lam District
 >
-> London
+> Hanoi
 >
-> United Kingdom
+> Vietnam
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Linkedin](https://www.linkedin.com/in/tung-ngo-hust/)
+<!-- 2. [Twitter](#)
+3. [Google+](#) -->
