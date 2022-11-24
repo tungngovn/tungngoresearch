@@ -1,5 +1,5 @@
 
-# Research projects of Thanh-Tung Ngo
+# Research (Under construction)
 
 ## MedBot
 
@@ -25,7 +25,7 @@ I proposed a new SLAM system that use an object detection model and a stereo dep
 PI: Dr. Xuan-Ha Nguyen
 AIR-HUST is an autonomous intelligent service mobile robot developed by the Autonomous Intelligent Robotics Lab at HUST. I was the leader of the undergraduates in this project.
 
-[![AIR-HUST](/projects/AIR-HUST/AIR-HUST.png)](https://www.youtube.com/watch?v=KEYiAhM7ixI){:height="400px}
+[![AIR-HUST](/projects/AIR-HUST/AIR-HUST.png)](https://www.youtube.com/watch?v=KEYiAhM7ixI){:height="200px}
 
 
 ## CBot
