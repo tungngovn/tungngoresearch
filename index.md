@@ -1,3 +1,5 @@
+# Thanh-Tung Ngo (Tom)
+
 ## About Me
 
 <img class="profile-picture" src="TungNgo-ava.jpg">
@@ -15,16 +17,16 @@ My research interest is in autonomous systems such as robots, and vehicles. My r
 - Sep, 2022: I started a new role as a teaching assistant for 6 ME courses at College of Engineering and Computer Science, VinUniversity.
 - Sep, 2022: I received my MSc degree in Mechatronics at HUST.
 - Mar, 2022: I started a new role as a research assistant (RA) at [VinUni-Illinois Smart Health Center (VISHC), VinUniversity](https://smarthealth.vinuni.edu.vn/).
-                            <!-- <li> <b>Jan, 2022</b>: Our paper was published at Journal of Science and Technology: Smart Systems and Devices (JST: SSaD).</li>
-                            <li> <b>May, 2021</b>: Our paper was published at International Conference on Intelligent Systems and Networks 2021 (ICISN 2021).</li>
-                            <li> <b>Jan, 2021</b>: Our paper was published at Vietnam Journal of Science and Technology.</li>
-                            <li> <b>Nov, 2020</b>: Our paper was published at Journal of Science and Technology - Technical Universities. </li>
-                            <li> <b>Oct, 2020</b>: I was granted the Domestic Master Scholarship (full tuition fee and stipend) by <a target="_blank" href="https://vinif.org/en/">Vingroup Innovation Foundation (VINIF)</a> for my MSc degree at HUST.</li>
-                            <li> <b>Aug, 2020</b>: I received my bachelor degree (Talented program) in Mechatronics at HUST.</li>
-                            <li> <b>Jun, 2020</b>: My team won the First Prize in Student Research Competition at HUST.</li>
-                            <li> <b>Jul, 2019</b>: I was one of 12 representatives of Vietnam to participate in <a target="_blank" href="https://enterprise.nus.edu.sg/education-programmes/summer-programme/">NUSSP19</a> at National University of Singapore.</li>
-                            <li> <b>Sep, 2018</b>: I was one of 25 representatives of HUST to participate in the TFISCALE exchange program in Singapore.</li>
-                            <li> <b>Jul, 2017</b>: I won the 4th Prize in the 2017 Blitz Research Competition at <a target="_blank" href="https://www.truonghekhoahoc.com/truonghe2017/"> Vietnam Summer School of Science</a>.</li> -->
+- Jan, 2022: Our paper was published at Journal of Science and Technology: Smart Systems and Devices (JST: SSaD).
+- May, 2021: Our paper was published at International Conference on Intelligent Systems and Networks 2021 (ICISN 2021).
+- Jan, 2021: Our paper was published at Vietnam Journal of Science and Technology.
+- Nov, 2020: Our paper was published at Journal of Science and Technology - Technical Universities.
+- Oct, 2020: I was granted the Domestic Master Scholarship (full tuition fee and stipend) by [Vingroup Innovation Foundation (VINIF)](https://vinif.org/en/) for my MSc degree at HUST.
+- Aug, 2020: I received my bachelor degree (Talented program) in Mechatronics at HUST.
+- Jun, 2020: My team won the First Prize in Student Research Competition at HUST.</li>
+- Jul, 2019: I was one of 12 representatives of Vietnam to participate in [NUSSP19](https://enterprise.nus.edu.sg/education-programmes/summer-programme/) at National University of Singapore.
+- Sep, 2018: I was one of 25 representatives of HUST to participate in the TFISCALE exchange program in Singapore.
+- Jul, 2017: I won the 4th Prize in the 2017 Blitz Research Competition at [Vietnam Summer School of Science](https://www.truonghekhoahoc.com/truonghe2017/).
 
 ## Publications
 
