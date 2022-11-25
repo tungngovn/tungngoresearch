@@ -19,17 +19,16 @@ I proposed a new SLAM system that use an object detection model and a stereo dep
 ![Visual SLAM](/projects/Visual-SLAM/Visual-SLAM.png){:width="300px}
 
 
-
 ## AIR-HUST
 <!-- [![AIR-HUST](/projects/AIR-HUST/AIR-HUST.png)](/projects/AIR-HUST/AIR-HUST){:width="300px} -->
 PI: Dr. Xuan-Ha Nguyen
-AIR-HUST is an autonomous intelligent service mobile robot developed by the Autonomous Intelligent Robotics Lab at HUST. I was the leader of the undergraduates in this project.
+AIR-HUST is an autonomous intelligent service mobile robot developed by the Autonomous Intelligent Robotics Lab at HUST. I was the leader of the undergraduates in this project. The robot uses computer vision deep learning models for fire warning and medical object detection.
 
 [![AIR-HUST](/projects/AIR-HUST/AIR-HUST.png)](https://www.youtube.com/watch?v=KEYiAhM7ixI){:height="200px}
 
 
 ## CBot
 <!-- ![CBot](/projects/CBot/CBot.jpg){:width="300px"} -->
-CBot is an intelligent service mobile robot based on Turtlebot2 at CMC Corporation. I developed the software system of the robot. In this project, I also do research on 2D SLAM for indoor robots.
+CBot is an intelligent service mobile robot based on Turtlebot2 at CMC Corporation. I developed the software system of the robot. In this project, I also did research on 2D SLAM for indoor robots.
 
 [![CBot](https://img.youtube.com/vi/v6WDv4eWN_k/0.jpg)](https://www.youtube.com/watch?v=v6WDv4eWN_k)

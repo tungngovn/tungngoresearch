@@ -22,5 +22,4 @@ is_contact: true
 ## Social
 
 1. [Linkedin](https://www.linkedin.com/in/tung-ngo-hust/)
-<!-- 2. [Twitter](#)
-3. [Google+](#) -->
+[//]: #(2. [Twitter](#)3. [Google+](#))
