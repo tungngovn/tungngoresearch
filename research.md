@@ -3,7 +3,7 @@
 
 ## MedBot
 
-Since Aug 2022, I am the supervisor for the first undergraduate intelligent robot research team at VinUni.
+Since Aug 2022, I am the supervisor for the first undergraduate intelligent robot research team at VinUniversity.
 
 ## Automatic cranial implant design with multi-agent reinforcement learning
 PI: [Dr. Huy-Hieu Pham](https://huyhieupham.github.io/), [Prof. Minh Do](https://minhdo.ece.illinois.edu/)

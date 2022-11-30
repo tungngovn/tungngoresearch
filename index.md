@@ -36,6 +36,13 @@ My research interest is in autonomous systems such as robots, and vehicles. My r
 4. [H. X. Nguyen, H. V. Nguyen, and **T. T. Ngo**, “A new landmark detection approach for SLAM algorithm applied in mobile robot,” J. Sci. Technol. Tech. Univ., vol. 146, pp. 31-36, Nov. 2020, doi: 10.51316/30.7.6.](https://jst.hust.edu.vn/journals/30.7.6)
 
 
+## In the media
+
+1. [Robot tự hành của các sinh viên Đại học Bách Khoa](https://www.facebook.com/cafesangvoivtv3/videos/318235686229132)
+2. [Sinh viên chế robot tự hành nói tiếng Việt với giá bất ngờ](https://vietnamnet.vn/sinh-vien-che-robot-tu-hanh-noi-tieng-viet-voi-gia-bat-ngo-652418.html)
+3. [Sáng chế robot chống dịch covid-19 của sinh viên](https://www.youtube.com/watch?v=eM2H02RkWSQ)
+4. ["Lớp học tùy tâm" của sinh viên Bách Khoa](https://www.facebook.com/hoisinhvien.com.vn/photos/a.604584152920986/1162148143831248/)
+
 <!-- ## Honors and Awards
 
 Year | Name | Orgranization
