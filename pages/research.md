@@ -3,13 +3,13 @@
 
 ## ECG 
 
+PI: [Dr. Cuong Do](https://vinuni.edu.vn/people/do-danh-cuong/)
 
-
-ECG classification using deep learning and preprocessing techniques such as matrix profile, R-peak analysis
+ECG classification using deep learning and preprocessing techniques such as matrix profile, R-peak analysis. 
 
 ## MedBot
 
-Since Aug 2022, I am the supervisor for the first undergraduate intelligent robot research team at VinUniversity.
+Since Aug 2022, I am the mentor for the first undergraduate intelligent robot research team at VinUniversity.
 
 ## Automatic cranial implant design with multi-agent reinforcement learning
 PI: [Dr. Huy-Hieu Pham](https://huyhieupham.github.io/), [Prof. Minh Do](https://minhdo.ece.illinois.edu/)
