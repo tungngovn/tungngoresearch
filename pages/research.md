@@ -1,6 +1,12 @@
 
 # Research (Under construction)
 
+## ECG 
+
+
+
+ECG classification using deep learning and preprocessing techniques such as matrix profile, R-peak analysis
+
 ## MedBot
 
 Since Aug 2022, I am the supervisor for the first undergraduate intelligent robot research team at VinUniversity.
@@ -10,7 +16,7 @@ PI: [Dr. Huy-Hieu Pham](https://huyhieupham.github.io/), [Prof. Minh Do](https:/
 
 I proposed a solution to use reinforcement learning to refine cranial implant designs for varied real-world cases.
 
-![Cranial Implant](/projects/SHC/TungNT_Cranial_implant_design_poster.png){:width="300px}
+![Cranial Implant](/assets/projects/SHC/TungNT_Cranial_implant_design_poster.png){:width="300px}
 
 
 ## Light weight Visual SLAM for autonomous vehicles based on GraphSLAM and Deep Learning 
@@ -18,7 +24,7 @@ PI: [Dr. Xuan-Ha Nguyen](https://scholar.google.com/citations?user=FO_xu-8AAAAJ&
 
 I proposed a new SLAM system that use an object detection model and a stereo depth estimation model for the frontend process. GraphSLAM was used to avoid redundancy and loop-closing. The solution is expected to improve the frontend process in both accuracy and computational effiency.
 
-![Visual SLAM](/projects/Visual-SLAM/Visual-SLAM.png){:width="300px}
+![Visual SLAM](/assets/projects/Visual-SLAM/Visual-SLAM.png){:width="300px}
 
 
 ## AIR-HUST
@@ -27,7 +33,7 @@ PI: [Dr. Xuan-Ha Nguyen](https://scholar.google.com/citations?user=FO_xu-8AAAAJ&
 
 AIR-HUST is an autonomous intelligent service mobile robot developed by the Autonomous Intelligent Robotics Lab at HUST. I was the leader of the undergraduates in this project. The robot uses computer vision deep learning models for fire warning and medical object detection.
 
-[![AIR-HUST](/projects/AIR-HUST/AIR-HUST.png)](https://www.youtube.com/watch?v=KEYiAhM7ixI){:height="200px}
+[![AIR-HUST](/assets/projects/AIR-HUST/AIR-HUST.png)](https://www.youtube.com/watch?v=KEYiAhM7ixI){:height="200px}
 
 
 ## CBot
