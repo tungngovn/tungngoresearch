@@ -16,7 +16,7 @@ PI: [Dr. Huy-Hieu Pham](https://huyhieupham.github.io/), [Prof. Minh Do](https:/
 
 I proposed a solution to use reinforcement learning to refine cranial implant designs for varied real-world cases.
 
-![Cranial Implant](/assets/projects/SHC/TungNT_Cranial_implant_design_poster.png){:width="300px}
+![Cranial Implant](/assets/projects/SHC/Skull_DRL.png){:width="300px}
 
 
 ## Light weight Visual SLAM for autonomous vehicles based on GraphSLAM and Deep Learning 
