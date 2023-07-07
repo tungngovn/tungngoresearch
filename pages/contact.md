@@ -22,3 +22,4 @@ is_contact: true
 ## Social
 
 1. [Linkedin](https://www.linkedin.com/in/tung-ngo-hust/)
+2. [Facebook](https://www.facebook.com/thanhtung.ngo.hust)
