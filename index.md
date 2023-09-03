@@ -4,9 +4,9 @@
 
 <img class="profile-picture" src="TungNgo-ava.jpg">
 
-I am currently a research and teaching assistant with [Dr. Truong Do](https://vinuni.edu.vn/people/do-tho-truong/) and [Dr. Cuong Do](https://vinuni.edu.vn/people/do-danh-cuong/) at College of Engineering and Computer Science (CECS), VinUniversity, Vietnam. Before that, I worked as a research assistant at [VinUni-Illinois Smart Health Center (VISHC), VinUniversity](https://smarthealth.vinuni.edu.vn/), supervised by [Prof. Minh Do](https://minhdo.ece.illinois.edu/) from UIUC and [Dr. Huy-Hieu Pham](https://huyhieupham.github.io/). Prior to VinUniversity, I obtained my M.Sc. degree and B.S.E degree (talented program - top 1% university) in Mechatronics Engineering at Hanoi University of Science and Technology under the supervision of [Dr-Ing. Xuan-Ha Nguyen](https://scholar.google.com/citations?user=FO_xu-8AAAAJ&hl=en&oi=ao).
+I am currently a PhD student in Computer Science at TU Dublin, funded by [ADAPT Center](https://www.adaptcentre.ie/about/) and supervised by [Dr. Robert Ross](https://www.adaptcentre.ie/experts/robert-ross/) and [Dr. Conor Mc Ginn](https://people.tcd.ie/Profile?Username=mcginnco). Before that, I was a research and teaching assistant at College of Engineering and Computer Science (CECS) and [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/), VinUniversity, Vietnam. Prior to VinUniversity, I obtained my M.Sc. degree and B.S.E degree (talented program - top 1% university) in Mechatronics Engineering at Hanoi University of Science and Technology under the supervision of [Dr-Ing. Xuan-Ha Nguyen](https://scholar.google.com/citations?user=FO_xu-8AAAAJ&hl=en&oi=ao).
 
-*I am looking for a Ph.D. opportunity to dig deeper into the topic of applying Reinforcement Learning and Computer Vision in active SLAM*.
+<!-- *I am looking for a Ph.D. opportunity to dig deeper into the topic of applying Reinforcement Learning and Computer Vision in active SLAM*. -->
 
 ## Research Interest
 
@@ -14,7 +14,8 @@ My research interest is in autonomous systems such as robots, and vehicles. My r
 
 ## News
 
-- Sep, 2022: I started a new role as a teaching assistant for 6 ME courses at College of Engineering and Computer Science, VinUniversity.
+- Sep, 2023: I started doing my PhD at TU Dublin, funded by ADAPT Center.
+- Sep, 2022: I started a new role as a research and teaching assistant at College of Engineering and Computer Science, VinUniversity.
 - Sep, 2022: I received my MSc degree in Mechatronics at HUST.
 - Mar, 2022: I started a new role as a research assistant (RA) at [VinUni-Illinois Smart Health Center (VISHC), VinUniversity](https://smarthealth.vinuni.edu.vn/).
 - Jan, 2022: Our paper was published at Journal of Science and Technology: Smart Systems and Devices (JST: SSaD).
@@ -30,7 +31,8 @@ My research interest is in autonomous systems such as robots, and vehicles. My r
 
 ## Publications
 
-1. [H. X. Nguyen, **T. T. Ngo**, and A. D. Nguyen, “Development of real-time traffic-object and traffic-sign detection models applied for autonomous intelligent vehicles,” J. Sci. Technol. Smart Syst. Devices, vol. 32, pp. 17-24, Jan. 2022, doi: 10.51316/jst.155.ssad.2022.32.1.3](https://jst.hust.edu.vn/journals/jst.155.ssad.2022.32.1.3).
+1. [H. X. Nguyen, **T. T. Ngo**, T. V. Nguyen, A. D. Pham, and T. D. Nguyen, “An efficient approach for traffic sign detection, classification, and localization applied for autonomous intelligent vehicles,” J. Modern Phys. Lett. B, Feb. 2023, doi: 10.1142/S0217984923400110](https://www.worldscientific.com/doi/10.1142/S0217984923400110).
+2. [H. X. Nguyen, **T. T. Ngo**, and A. D. Nguyen, “Development of real-time traffic-object and traffic-sign detection models applied for autonomous intelligent vehicles,” J. Sci. Technol. Smart Syst. Devices, vol. 32, pp. 17-24, Jan. 2022, doi: 10.51316/jst.155.ssad.2022.32.1.3](https://jst.hust.edu.vn/journals/jst.155.ssad.2022.32.1.3).
 2. [H. X. Nguyen, **T. T. Ngo**, and H. V. Nguyen, “Development of an autonomous intelligent mobile robot based on AI and SLAM technology,” in Proc. Int. Conf. Intell. Syst. Netw. 2021, pp. 319-326, doi: 10.1007/978-981-16-2094-2_40](https://link.springer.com/chapter/10.1007/978-981-16-2094-2_40).
 3. [H. X. Nguyen, H. V. Nguyen, **T. T. Ngo**, and A. D. Nguyen, “Improvement of Control Algorithm for mobile robot using multi-layer sensor fusion,” Vietnam J. Sci. Technol., vol. 59, no. 1, pp. 110-119, Feb. 2021, doi: 10.15625/2525-2518/59/0/15301](https://vjs.ac.vn/index.php/jst/article/view/15301).
 4. [H. X. Nguyen, H. V. Nguyen, and **T. T. Ngo**, “A new landmark detection approach for SLAM algorithm applied in mobile robot,” J. Sci. Technol. Tech. Univ., vol. 146, pp. 31-36, Nov. 2020, doi: 10.51316/30.7.6](https://jst.hust.edu.vn/journals/30.7.6).
