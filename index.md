@@ -12,7 +12,8 @@ I am currently a PhD student in Computer Science at TU Dublin, funded by [ADAPT 
 
 My research interest is in autonomous systems such as robots, and vehicles. My research spans from algorithms (**Reinforcement Learning, SLAM, Deep Learning, and Probabilistic Robotics**) to hands-on developing robotic systems (ROS, electrical circuit, and 3D printing).
 
-## News
+<!-- 
+## News 
 
 - Sep, 2023: I started doing my PhD at TU Dublin, funded by ADAPT Center.
 - Sep, 2022: I started a new role as a research and teaching assistant at College of Engineering and Computer Science, VinUniversity.
@@ -28,6 +29,7 @@ My research interest is in autonomous systems such as robots, and vehicles. My r
 - Jul, 2019: I was one of 12 representatives of Vietnam to participate in [NUSSP19](https://enterprise.nus.edu.sg/education-programmes/summer-programme/) at National University of Singapore.
 - Sep, 2018: I was one of 25 representatives of HUST to participate in the TFISCALE exchange program in Singapore.
 - Jul, 2017: I won the 4th Prize in the 2017 Blitz Research Competition at [Vietnam Summer School of Science](https://www.truonghekhoahoc.com/truonghe2017/).
+-->
 
 ## Publications
 
@@ -37,24 +39,22 @@ My research interest is in autonomous systems such as robots, and vehicles. My r
 4. [H. X. Nguyen, H. V. Nguyen, **T. T. Ngo**, and A. D. Nguyen, “Improvement of Control Algorithm for mobile robot using multi-layer sensor fusion,” Vietnam J. Sci. Technol., vol. 59, no. 1, pp. 110-119, Feb. 2021, doi: 10.15625/2525-2518/59/0/15301](https://vjs.ac.vn/index.php/jst/article/view/15301).
 5. [H. X. Nguyen, H. V. Nguyen, and **T. T. Ngo**, “A new landmark detection approach for SLAM algorithm applied in mobile robot,” J. Sci. Technol. Tech. Univ., vol. 146, pp. 31-36, Nov. 2020, doi: 10.51316/30.7.6](https://jst.hust.edu.vn/journals/30.7.6).
 
-
-## In the media
-
-1. [Robot tự hành của các sinh viên Đại học Bách Khoa](https://www.facebook.com/cafesangvoivtv3/videos/318235686229132)
-2. [Sinh viên chế robot tự hành nói tiếng Việt với giá bất ngờ](https://vietnamnet.vn/sinh-vien-che-robot-tu-hanh-noi-tieng-viet-voi-gia-bat-ngo-652418.html)
-3. [Sáng chế robot chống dịch covid-19 của sinh viên](https://www.youtube.com/watch?v=eM2H02RkWSQ)
-4. ["Lớp học tùy tâm" của sinh viên Bách Khoa](https://www.facebook.com/hoisinhvien.com.vn/photos/a.604584152920986/1162148143831248/)
-
-<!-- ## Honors and Awards
+## Honors and Awards
 
 Year | Name | Orgranization
 -----|-------|--------
-2021 | Recommended Candidate of VEF2.0 Program  | VEF Fellows and Scholars Association
+2023 | PhD Scholarship | ADAPT Center - TUD, TCD
 2020 | Domestic Master Scholarship | Vingroup Innovation Foundation
 2020 | 1st Prize in Student Research Competition | Hanoi University of Science and Technology
 2019 | NUS Enterprise Summer Program | Temasek Foundation International and National University of Singapore
 09/2018 & 03/2019 | TFI SCALE Scholar 2018 | Temasek Foundation International
 07/2017 | 4th Prize in the 2017 Blitz Research Competition | Rencontres du Vietnam
 2017, 2018, 2019 | Student with five good merits | Vietnam National Union of Students of HUST
-2015-2017 | FYT Scholarship for Outstanding Students | FPT Center for Young Talents, FPT Corporation -->
+2015-2017 | FYT Scholarship for Outstanding Students | FPT Center for Young Talents, FPT Corporation
 
+## In the media
+
+1. ["Lớp học tùy tâm" của sinh viên Bách Khoa](https://www.facebook.com/hoisinhvien.com.vn/photos/a.604584152920986/1162148143831248/)
+2. [Robot tự hành của các sinh viên Đại học Bách Khoa](https://www.facebook.com/cafesangvoivtv3/videos/318235686229132)
+3. [Sáng chế robot chống dịch covid-19 của sinh viên](https://www.youtube.com/watch?v=eM2H02RkWSQ)
+4. [Sinh viên chế robot tự hành nói tiếng Việt với giá bất ngờ](https://vietnamnet.vn/sinh-vien-che-robot-tu-hanh-noi-tieng-viet-voi-gia-bat-ngo-652418.html)

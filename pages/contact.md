@@ -5,17 +5,15 @@ is_contact: true
 
 * Email: [tung.ngothanh.hust(at)gmail.com](mailto:tung.ngothanh.hust@gmail.com)
 
-<!-- * Phone: [+84-386560691](tel:+84-386560691) -->
-
 ---
 
 ## Mailing Address
 
-> VinUniversity, Vinhomes Ocean Park, Gia Lam District
->
-> Hanoi
->
-> Vietnam
+> Park House, 191/193A North Circular Road
+> Dublin 7
+> D07EWV4
+> Dublin
+> Ireland
 
 ---
 
