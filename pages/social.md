@@ -1,5 +1,11 @@
 # Social activities
 
+## Rosbotic Ambassador
+
+![Rosbotic Ambassador](/assets/social/RA-TheConstruct.jpg){:width="500px"}
+
+Since Dec 2023, I have been an ambassador of the [Rosbotics Ambassador](https://www.theconstruct.ai/rosbotics-ambassador/) program at [The Construct](https://www.theconstruct.ai/), one of the best platforms to learn ROS.
+
 ## NUS Enterprise Summer Program 2019
 
 ![NUSSP](/assets/social/nussp.jpg){:width="500px"}

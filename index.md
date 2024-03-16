@@ -10,7 +10,7 @@ I am currently a PhD student in Computer Science at TU Dublin, funded by [ADAPT 
 
 ## Research Interest
 
-My research interest is in autonomous systems such as robots, and vehicles. My research spans from algorithms (**Reinforcement Learning, SLAM, Deep Learning, and Probabilistic Robotics**) to hands-on developing robotic systems (ROS, electrical circuit, and 3D printing).
+My research interest is in human-robot interaction and autonomous systems such as robots, and vehicles. My research spans from algorithms (**Reinforcement Learning, SLAM, Deep Learning, and Probabilistic Robotics**) to hands-on developing robotic systems (ROS, electrical circuit, and 3D printing).
 
 <!-- 
 ## News 
